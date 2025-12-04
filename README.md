@@ -76,9 +76,9 @@ Animações ativadas conforme o usuário faz scroll pela página.
 ---
 
 <details>
-<summary><strong>7. 3D Card Hover</strong></summary>
+<summary><strong>7. 3D Card</strong></summary>
 
- 3D Card  
+### 3D Card Hover
 Efeito 3D em cards utilizando transformações CSS.
 
 <img src="https://github.com/user-attachments/assets/2a08ea65-66ff-458a-9d83-fb268b3e6b17" width="600">
